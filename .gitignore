@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-./puppeteer/scraping/html/
-./puppeteer/scraping/md/
+puppeteer/scraping/html/
+puppeteer/scraping/md/
